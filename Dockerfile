@@ -1,3 +1,4 @@
+#20210527
 FROM alpine:3.13
 MAINTAINER pasi@pashi.net
 RUN apk add --update hugo
