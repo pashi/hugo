@@ -1,5 +1,5 @@
-#20210527
-FROM alpine:3.13
+#20210719
+FROM alpine:3.14
 MAINTAINER pasi@pashi.net
 RUN apk add --update hugo
 EXPOSE 1313
